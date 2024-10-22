@@ -2,16 +2,9 @@
     width: 100px;
     height: 100px;
     background-color: cadetblue;
+    background-image: url('../img/white_lamp.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
     margin: 2px;
-}
-
-.off{
-    background-image: url("../img/white_lamp.png");;
-}
-
-.on{
-    background-image: url("../img/yellow_lamp.png");
 }
